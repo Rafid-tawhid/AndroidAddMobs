@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AddMobs</string>
+    <string name="ADMOB_ADS_UNIT_ID">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="nativ_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
 </resources>
